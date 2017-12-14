@@ -19,22 +19,18 @@
     </nav>
   </div>
   
-   
-        <ul id="slide-out" class="side-nav fixed teal darken-4" >
-
+  <div >
+        <ul id="slide-out" class="side-nav teal darken-3 z-depth-1  " >
           <li>
             <div class="user-view">
               <div class="background">
-                <img src="../images/candles_min.jpg">
+                <img src="images/candles_min.jpg">
               </div> 
-              <a href=""><img class="circle" src="../images/user.png"></a>
+              <a href=""><img class="circle" src="images/user.png"></a>
               <a href=""><span class="nome">Nome do usuário</span></a>           
               <a href=""><span class="email">Email do usuário</span></a>
             </div>
           </li>
-
-
-
         <li><a class="waves-effect" href="#!"><span style="color: white">Dashboard</span></a></li>
         <li><div class="divider"></div></li>
         <li><a class="waves-effect" href="#!"><span style="color: white">Dashboard</span></a></li>
@@ -57,7 +53,7 @@
       
       <a href="#" data-activates="slide-out" id="side-navbar" class="btn-floating btn-large waves-effect waves-light teal darken-3"><i class="material-icons">menu</i></a>
   
- 
+ </div> 
   <main>
 
     <div class="container">

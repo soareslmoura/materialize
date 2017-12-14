@@ -1,4 +1,4 @@
-<?php if(!class_exists('Rain\Tpl')){exit;}?><footer class="page-footer teal darken-3">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><footer class="page-footer teal darken-3 z-depth-1">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
@@ -36,8 +36,8 @@
 
     <!--  Scripts-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script>
+  <script src="view/js/materialize.js"></script>
+  <script src="view/js/init.js"></script>
   
 
   <script>
